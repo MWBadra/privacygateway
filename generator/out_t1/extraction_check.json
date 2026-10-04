@@ -1,0 +1,588 @@
+{
+ "T1-00001": {
+  "full_name_ar": {
+   "type": "PERSON",
+   "value": "منى صبري رزق إبراهيم الديسطي",
+   "exact_match": false,
+   "tokens_found": "0/5"
+  },
+  "full_name_en": {
+   "type": "PERSON",
+   "value": "MONA SABRY REZK IBRAHIM EL DEISTY",
+   "exact_match": true,
+   "tokens_found": "6/6"
+  },
+  "cif": {
+   "type": "CUSTOMER_ID",
+   "value": "٧٤١٣٦٨١٠٩",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "printed_no": {
+   "type": "ID_CARD_SERIAL",
+   "value": "BP1453847",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "national_id": {
+   "type": "NATIONAL_ID",
+   "value": "٢٧٣١٢١٥٢٤١٣٩٤٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issued_by": {
+   "type": "LOCATION",
+   "value": "سجل مدني المنيا",
+   "exact_match": false,
+   "tokens_found": "1/3"
+  },
+  "dob": {
+   "type": "DATE_OF_BIRTH",
+   "value": "١٥/١٢/١٩٧٣",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issue_date": {
+   "type": "DATE",
+   "value": "٠٨/٠٢/٢٠٢٣",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "expiry_date": {
+   "type": "DATE",
+   "value": "٠٨/٠٢/٢٠٣٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "place_of_birth": {
+   "type": "LOCATION",
+   "value": "المنيا",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "address": {
+   "type": "ADDRESS",
+   "value": "٢٣ شارع عمر بن الخطاب، الدور ٤ شقة ٢، المنيا، المنيا",
+   "exact_match": false,
+   "tokens_found": "2/11"
+  },
+  "mail_address": {
+   "type": "ADDRESS",
+   "value": "٢٣ شارع عمر بن الخطاب، الدور ٤ شقة ٢، المنيا، المنيا",
+   "exact_match": false,
+   "tokens_found": "2/11"
+  },
+  "home_phone": {
+   "type": "PHONE",
+   "value": "٠٨٦٩٣٣٠٦٠٥",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "mobile": {
+   "type": "PHONE",
+   "value": "٠١٠٤٧٠٧٣١٤٩",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "mobile2": {
+   "type": "PHONE",
+   "value": "٠١١٧٦٩٩٨٢٥٩",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "email": {
+   "type": "EMAIL",
+   "value": "mona.deisty@gmail.com",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "employer": {
+   "type": "ORGANIZATION",
+   "value": "مصلحة الضرائب المصرية",
+   "exact_match": false,
+   "tokens_found": "0/3"
+  },
+  "employer_address": {
+   "type": "ADDRESS",
+   "value": "١٧٦ شارع الهرم، الدور ١٠ شقة ٤٠، سمالوط، المنيا",
+   "exact_match": false,
+   "tokens_found": "0/9"
+  },
+  "employer_phone": {
+   "type": "PHONE",
+   "value": "٠٨٦١٩٨٣٣٢٨",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "request_no": {
+   "type": "REFERENCE",
+   "value": "٣٢٨٥٥٥٧",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "employment_start": {
+   "type": "DATE",
+   "value": "٠١/١٠/٢٠٠٩",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  }
+ },
+ "T1-00002": {
+  "full_name_ar": {
+   "type": "PERSON",
+   "value": "وسيم أبوالمكارم إسماعيل البني",
+   "exact_match": false,
+   "tokens_found": "0/4"
+  },
+  "full_name_en": {
+   "type": "PERSON",
+   "value": "WASEEM ABOLMAKAREM ISMAIL ELBONNY",
+   "exact_match": true,
+   "tokens_found": "4/4"
+  },
+  "cif": {
+   "type": "CUSTOMER_ID",
+   "value": "591604068",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "printed_no": {
+   "type": "ID_CARD_SERIAL",
+   "value": "DZ8400150",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "national_id": {
+   "type": "NATIONAL_ID",
+   "value": "30009120302071",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "issued_by": {
+   "type": "LOCATION",
+   "value": "سجل مدني بورفؤاد",
+   "exact_match": false,
+   "tokens_found": "1/3"
+  },
+  "dob": {
+   "type": "DATE_OF_BIRTH",
+   "value": "12/09/2000",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "issue_date": {
+   "type": "DATE",
+   "value": "04/07/2024",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "expiry_date": {
+   "type": "DATE",
+   "value": "04/07/2031",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "place_of_birth": {
+   "type": "LOCATION",
+   "value": "بورسعيد",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "address": {
+   "type": "ADDRESS",
+   "value": "142 شارع مصطفى النحاس، الدور 4 شقة 12، حي الشرق، بورسعيد",
+   "exact_match": false,
+   "tokens_found": "3/11"
+  },
+  "mail_address": {
+   "type": "ADDRESS",
+   "value": "142 شارع مصطفى النحاس، الدور 4 شقة 12، حي الشرق، بورسعيد",
+   "exact_match": false,
+   "tokens_found": "3/11"
+  },
+  "home_phone": {
+   "type": "PHONE",
+   "value": "0664393507",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "mobile": {
+   "type": "PHONE",
+   "value": "01003333779",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "mobile2": {
+   "type": "PHONE",
+   "value": "01571237617",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "email": {
+   "type": "EMAIL",
+   "value": "waseemelbonny@yahoo.com",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "request_no": {
+   "type": "REFERENCE",
+   "value": "6799817",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "employment_start": {
+   "type": "DATE",
+   "value": "15/02/2024",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  }
+ },
+ "T1-00003": {
+  "full_name_ar": {
+   "type": "PERSON",
+   "value": "شمس علي حسن تمساح",
+   "exact_match": false,
+   "tokens_found": "1/4"
+  },
+  "full_name_en": {
+   "type": "PERSON",
+   "value": "SHAMS ALI HASSAN TEMSAH",
+   "exact_match": true,
+   "tokens_found": "4/4"
+  },
+  "cif": {
+   "type": "CUSTOMER_ID",
+   "value": "٩٧٨٩٢٨٣٠٧",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "printed_no": {
+   "type": "ID_CARD_SERIAL",
+   "value": "MN9527343",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "national_id": {
+   "type": "NATIONAL_ID",
+   "value": "٢٧٠٠٥٠٨٢٤٩٣٩٠٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issued_by": {
+   "type": "LOCATION",
+   "value": "سجل مدني المنيا",
+   "exact_match": false,
+   "tokens_found": "1/3"
+  },
+  "dob": {
+   "type": "DATE_OF_BIRTH",
+   "value": "٠٨/٠٥/١٩٧٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issue_date": {
+   "type": "DATE",
+   "value": "١٨/١١/٢٠٢٣",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "expiry_date": {
+   "type": "DATE",
+   "value": "١٨/١١/٢٠٣٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "place_of_birth": {
+   "type": "LOCATION",
+   "value": "المنيا",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "address": {
+   "type": "ADDRESS",
+   "value": "٦٥ شارع عمر بن الخطاب، الدور ١١ شقة ١٠، المنيا، المنيا",
+   "exact_match": false,
+   "tokens_found": "1/11"
+  },
+  "mail_address": {
+   "type": "ADDRESS",
+   "value": "١٣٧ شارع الهرم، الزيتون، القاهرة",
+   "exact_match": false,
+   "tokens_found": "0/5"
+  },
+  "home_phone": {
+   "type": "PHONE",
+   "value": "٠٨٦٤٧٣٨٣٩٥",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "mobile": {
+   "type": "PHONE",
+   "value": "٠١١٢١٧٩٥٩١٨",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "email": {
+   "type": "EMAIL",
+   "value": "shamstemsah@hotmail.com",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "request_no": {
+   "type": "REFERENCE",
+   "value": "٩٤٠٠١٥٠",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "employment_start": {
+   "type": "DATE",
+   "value": "٢٨/٠٦/٢٠١٥",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  }
+ },
+ "T1-00004": {
+  "full_name_ar": {
+   "type": "PERSON",
+   "value": "ناريمان محمد إبراهيم عبدالعال أبوعضمة",
+   "exact_match": false,
+   "tokens_found": "0/5"
+  },
+  "full_name_en": {
+   "type": "PERSON",
+   "value": "Nariman Mohamed Ibrahim Abdelaal Abuadma",
+   "exact_match": true,
+   "tokens_found": "5/5"
+  },
+  "cif": {
+   "type": "CUSTOMER_ID",
+   "value": "١٣٥٦٢١١٦٦",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "printed_no": {
+   "type": "ID_CARD_SERIAL",
+   "value": "ZZ2674108",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "national_id": {
+   "type": "NATIONAL_ID",
+   "value": "٢٨٤٠١١٩١٤٨٢٨٨٣",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issued_by": {
+   "type": "LOCATION",
+   "value": "سجل مدني بنها",
+   "exact_match": false,
+   "tokens_found": "1/3"
+  },
+  "dob": {
+   "type": "DATE_OF_BIRTH",
+   "value": "١٩/٠١/١٩٨٤",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "issue_date": {
+   "type": "DATE",
+   "value": "١٦/٠٤/٢٠٢١",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "expiry_date": {
+   "type": "DATE",
+   "value": "١٦/٠٤/٢٠٢٨",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "place_of_birth": {
+   "type": "LOCATION",
+   "value": "القليوبية",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "address": {
+   "type": "ADDRESS",
+   "value": "٧٠ شارع المدارس، الدور ٦ شقة ٣٤، بنها، القليوبية",
+   "exact_match": false,
+   "tokens_found": "1/9"
+  },
+  "mail_address": {
+   "type": "ADDRESS",
+   "value": "٢٧ شارع المحطة، الطور، جنوب سيناء",
+   "exact_match": false,
+   "tokens_found": "0/6"
+  },
+  "home_phone": {
+   "type": "PHONE",
+   "value": "٠١٣٥١١١٨٢١",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "mobile": {
+   "type": "PHONE",
+   "value": "٠١٠٧٢٤١٨٧١٤",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "email": {
+   "type": "EMAIL",
+   "value": "nariman_abuadma84@outlook.com",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "employer": {
+   "type": "ORGANIZATION",
+   "value": "وزارة التربية والتعليم",
+   "exact_match": false,
+   "tokens_found": "0/3"
+  },
+  "employer_address": {
+   "type": "ADDRESS",
+   "value": "١٣٤ شارع الهرم، الدور ٥ شقة ٣٦، الخانكة، القليوبية",
+   "exact_match": false,
+   "tokens_found": "1/9"
+  },
+  "employer_phone": {
+   "type": "PHONE",
+   "value": "٠١٣٨٢٩٦٠٤٦",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "request_no": {
+   "type": "REFERENCE",
+   "value": "٣٥١٠١٩١",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "employment_start": {
+   "type": "DATE",
+   "value": "١٠/٠٣/٢٠٢٢",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  }
+ },
+ "T1-00005": {
+  "full_name_ar": {
+   "type": "PERSON",
+   "value": "هنا محمد حسن بدوي",
+   "exact_match": false,
+   "tokens_found": "0/4"
+  },
+  "full_name_en": {
+   "type": "PERSON",
+   "value": "Hana Mohamed Hassan Badawy",
+   "exact_match": true,
+   "tokens_found": "4/4"
+  },
+  "cif": {
+   "type": "CUSTOMER_ID",
+   "value": "940796096",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "printed_no": {
+   "type": "ID_CARD_SERIAL",
+   "value": "EW6690889",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "national_id": {
+   "type": "NATIONAL_ID",
+   "value": "26310132673848",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "issued_by": {
+   "type": "LOCATION",
+   "value": "سجل مدني طهطا",
+   "exact_match": false,
+   "tokens_found": "1/3"
+  },
+  "dob": {
+   "type": "DATE_OF_BIRTH",
+   "value": "13/10/1963",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "issue_date": {
+   "type": "DATE",
+   "value": "31/10/2022",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "expiry_date": {
+   "type": "DATE",
+   "value": "31/10/2029",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "place_of_birth": {
+   "type": "LOCATION",
+   "value": "سوهاج",
+   "exact_match": false,
+   "tokens_found": "0/1"
+  },
+  "address": {
+   "type": "ADDRESS",
+   "value": "81 شارع 26 يوليو، الدور 11 شقة 20، طهطا، سوهاج",
+   "exact_match": false,
+   "tokens_found": "3/10"
+  },
+  "mail_address": {
+   "type": "ADDRESS",
+   "value": "81 شارع 26 يوليو، الدور 11 شقة 20، طهطا، سوهاج",
+   "exact_match": false,
+   "tokens_found": "3/10"
+  },
+  "mobile": {
+   "type": "PHONE",
+   "value": "01522245821",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "mobile2": {
+   "type": "PHONE",
+   "value": "01536257326",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "email": {
+   "type": "EMAIL",
+   "value": "hana.badawy@gmail.com",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "employer": {
+   "type": "ORGANIZATION",
+   "value": "جامعة القاهرة",
+   "exact_match": false,
+   "tokens_found": "0/2"
+  },
+  "employer_address": {
+   "type": "ADDRESS",
+   "value": "29 شارع طلعت حرب، الدور 12 شقة 20، عين شمس، القاهرة",
+   "exact_match": false,
+   "tokens_found": "2/11"
+  },
+  "employer_phone": {
+   "type": "PHONE",
+   "value": "0250329152",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "request_no": {
+   "type": "REFERENCE",
+   "value": "3912677",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  },
+  "employment_start": {
+   "type": "DATE",
+   "value": "25/02/2023",
+   "exact_match": true,
+   "tokens_found": "1/1"
+  }
+ }
+}

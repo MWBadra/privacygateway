@@ -1,0 +1,74 @@
+[
+ {
+  "locale": "ar_EG",
+  "full_name": "Stephanie Lee",
+  "address": "5192 Jesus Brook Apt. 749, South Christophermouth, AL 73396",
+  "city": "Port Michaelshire",
+  "phone": "502.456.9999x4197",
+  "iban": "GB26XOKP84132067180614",
+  "id (ssn)": "845-88-1376",
+  "job": "Agricultural consultant",
+  "company": "Schmidt-Fischer",
+  "email": "jpeters@example.net"
+ },
+ {
+  "locale": "ar_SA",
+  "full_name": "ترف آل معيض",
+  "address": "92130 منيع Square Suite 906, East غطفانtown, OH 03883",
+  "city": "شريفshire",
+  "phone": "502.456.9999x4197",
+  "iban": "GB26XOKP84132067180614",
+  "id (ssn)": "845-88-1376",
+  "job": "Agricultural consultant",
+  "company": "المغاولة-مهنا",
+  "email": "qtblmhydb@example.com"
+ },
+ {
+  "locale": "ar_SA",
+  "full_name": "السيد فاتح آل قصير",
+  "address": "29155 بقشان Summit Apt. 008, صابرstad, GU 37519",
+  "city": "East مشرف",
+  "phone": "(699)275-5517",
+  "iban": "GB80DKQA02029361388640",
+  "id (ssn)": "553-72-5479",
+  "job": "Scientist, research (maths)",
+  "company": "العليان-الجابر",
+  "email": "bylsn87@example.com"
+ },
+ {
+  "locale": "ar_SA",
+  "full_name": "أفنان الراشد",
+  "address": "51348 أبو داوود Walks, Port باسمة, MO 95036",
+  "city": "لوراhaven",
+  "phone": "727.243.1517x5496",
+  "iban": "GB89MDBV50789668412939",
+  "id (ssn)": "423-79-6016",
+  "job": "Surveyor, land/geomatics",
+  "company": "فصيل and Sons",
+  "email": "rwlhkyr@example.org"
+ },
+ {
+  "locale": "ar_SA",
+  "full_name": "السيدة ماذى آل سلطان",
+  "address": "0342 آل قصير Shores, Lake رائد, CA 92576",
+  "city": "North عزيزmouth",
+  "phone": "(518)408-8780",
+  "iban": "GB23OQLU73563484975883",
+  "id (ssn)": "683-80-8888",
+  "job": "Radio broadcast assistant",
+  "company": "المشاولة LLC",
+  "email": "lmgwllwy@example.net"
+ },
+ {
+  "locale": "ar_SA",
+  "full_name": "محيي الدّين الحجار",
+  "address": "198 طائف Isle Apt. 403, North ظافر, MS 52314",
+  "city": "South فاخر",
+  "phone": "(382)271-2146",
+  "iban": "GB49ZJBO48614344348484",
+  "id (ssn)": "361-17-1566",
+  "job": "Lecturer, higher education",
+  "company": "آل خضير, حنبولي and أبو داوود",
+  "email": "sjybw-dwwd@example.com"
+ }
+]

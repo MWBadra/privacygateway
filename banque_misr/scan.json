@@ -1,0 +1,811 @@
+[
+ {
+  "file": "egypt\\bm_online_business_guide_ar.pdf",
+  "pages": 34,
+  "chars": 19250,
+  "ar": 15173,
+  "pf": 0,
+  "la": 14,
+  "gr": 0,
+  "img_only_pages": 3,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "account no",
+   "card no",
+   "amount"
+  ],
+  "size_kb": 2624
+ },
+ {
+  "file": "egypt\\bm_online_transfer_limits_individuals_en.pdf",
+  "pages": 1,
+  "chars": 1038,
+  "ar": 0,
+  "pf": 0,
+  "la": 587,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "amount"
+  ],
+  "size_kb": 98
+ },
+ {
+  "file": "egypt\\card_usage_outside_egypt_en.pdf",
+  "pages": 2,
+  "chars": 2396,
+  "ar": 0,
+  "pf": 0,
+  "la": 1457,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "signature"
+  ],
+  "size_kb": 143
+ },
+ {
+  "file": "egypt\\cd_redemption_instructions_en.pdf",
+  "pages": 2,
+  "chars": 0,
+  "ar": 0,
+  "pf": 0,
+  "la": 0,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [],
+  "size_kb": 4339
+ },
+ {
+  "file": "egypt\\corporate_client_info_form_en.pdf",
+  "pages": 1,
+  "chars": 377,
+  "ar": 0,
+  "pf": 0,
+  "la": 219,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "card no",
+   "phone",
+   "email"
+  ],
+  "size_kb": 111
+ },
+ {
+  "file": "egypt\\corporate_tariff_en.pdf",
+  "pages": 12,
+  "chars": 18002,
+  "ar": 0,
+  "pf": 0,
+  "la": 13883,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "account no",
+   "phone",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 346
+ },
+ {
+  "file": "egypt\\credit_card_limits_fees_en.pdf",
+  "pages": 7,
+  "chars": 12164,
+  "ar": 0,
+  "pf": 0,
+  "la": 7279,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 651
+ },
+ {
+  "file": "egypt\\custody_fees_en.pdf",
+  "pages": 3,
+  "chars": 1814,
+  "ar": 0,
+  "pf": 0,
+  "la": 1209,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [],
+  "size_kb": 94
+ },
+ {
+  "file": "egypt\\customer_rights_protection_en.pdf",
+  "pages": 1,
+  "chars": 3507,
+  "ar": 0,
+  "pf": 0,
+  "la": 2800,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "phone",
+   "email"
+  ],
+  "size_kb": 125
+ },
+ {
+  "file": "egypt\\fees_day_by_day_en.pdf",
+  "pages": 1,
+  "chars": 406,
+  "ar": 0,
+  "pf": 0,
+  "la": 268,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name"
+  ],
+  "size_kb": 154
+ },
+ {
+  "file": "egypt\\fees_individual_accounts_en.pdf",
+  "pages": 1,
+  "chars": 1934,
+  "ar": 0,
+  "pf": 0,
+  "la": 1242,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 207
+ },
+ {
+  "file": "egypt\\iban_explainer_en.pdf",
+  "pages": 2,
+  "chars": 3035,
+  "ar": 0,
+  "pf": 0,
+  "la": 2283,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "account no",
+   "IBAN"
+  ],
+  "size_kb": 431
+ },
+ {
+  "file": "egypt\\interest_rates_corporate_en.pdf",
+  "pages": 5,
+  "chars": 5683,
+  "ar": 0,
+  "pf": 0,
+  "la": 2734,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [],
+  "size_kb": 265
+ },
+ {
+  "file": "egypt\\interest_rates_individuals_en.pdf",
+  "pages": 18,
+  "chars": 12361,
+  "ar": 0,
+  "pf": 0,
+  "la": 7517,
+  "gr": 0,
+  "img_only_pages": 1,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "amount"
+  ],
+  "size_kb": 458
+ },
+ {
+  "file": "egypt\\islamic_deposit_returns_en.pdf",
+  "pages": 10,
+  "chars": 9265,
+  "ar": 0,
+  "pf": 0,
+  "la": 6279,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "amount"
+  ],
+  "size_kb": 695
+ },
+ {
+  "file": "egypt\\schedule_of_charges_individual_en.pdf",
+  "pages": 4,
+  "chars": 5885,
+  "ar": 0,
+  "pf": 0,
+  "la": 3969,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "amount",
+   "employer/income"
+  ],
+  "size_kb": 239
+ },
+ {
+  "file": "egypt\\uae_general_terms_en.pdf",
+  "pages": 99,
+  "chars": 312026,
+  "ar": 110543,
+  "pf": 0,
+  "la": 137177,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "card no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 841
+ },
+ {
+  "file": "uae_branch\\business_account_opening_terms.pdf",
+  "pages": 10,
+  "chars": 56507,
+  "ar": 200,
+  "pf": 440,
+  "la": 44474,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 2176
+ },
+ {
+  "file": "uae_branch\\business_debit_card_request.pdf",
+  "pages": 3,
+  "chars": 15508,
+  "ar": 1282,
+  "pf": 4215,
+  "la": 6897,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 25,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "dob",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 3588
+ },
+ {
+  "file": "uae_branch\\business_eservice_subscription.pdf",
+  "pages": 1,
+  "chars": 2983,
+  "ar": 233,
+  "pf": 696,
+  "la": 1226,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 24,
+  "xfa": false,
+  "labels": [
+   "name",
+   "phone",
+   "email",
+   "address",
+   "signature"
+  ],
+  "size_kb": 823
+ },
+ {
+  "file": "uae_branch\\credit_card_application_secured.pdf",
+  "pages": 6,
+  "chars": 28765,
+  "ar": 0,
+  "pf": 0,
+  "la": 17908,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "card no",
+   "phone",
+   "email",
+   "address",
+   "employer/income"
+  ],
+  "size_kb": 2575
+ },
+ {
+  "file": "uae_branch\\credit_card_terms.pdf",
+  "pages": 11,
+  "chars": 49641,
+  "ar": 154,
+  "pf": 418,
+  "la": 37782,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "card no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 2679
+ },
+ {
+  "file": "uae_branch\\debit_card_application_form.pdf",
+  "pages": 2,
+  "chars": 7869,
+  "ar": 583,
+  "pf": 1805,
+  "la": 2753,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 31,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "dob",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 1251
+ },
+ {
+  "file": "uae_branch\\e_service_form_individual.pdf",
+  "pages": 3,
+  "chars": 12484,
+  "ar": 4149,
+  "pf": 22,
+  "la": 4830,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 15,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "card no",
+   "phone",
+   "email",
+   "address",
+   "dob",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 1298
+ },
+ {
+  "file": "uae_branch\\general_terms_conditions.pdf",
+  "pages": 98,
+  "chars": 325190,
+  "ar": 28840,
+  "pf": 86039,
+  "la": 142145,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "card no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 9610
+ },
+ {
+  "file": "uae_branch\\kfs_individual_accounts.pdf",
+  "pages": 3,
+  "chars": 7898,
+  "ar": 0,
+  "pf": 0,
+  "la": 5923,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": true,
+  "labels": [
+   "id/passport",
+   "phone",
+   "email",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 1647
+ },
+ {
+  "file": "uae_branch\\kfs_non_individual_accounts.pdf",
+  "pages": 1,
+  "chars": 4615,
+  "ar": 14,
+  "pf": 38,
+  "la": 3607,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "signature"
+  ],
+  "size_kb": 1029
+ },
+ {
+  "file": "uae_branch\\lc_issuance_application.pdf",
+  "pages": 4,
+  "chars": 16553,
+  "ar": 1390,
+  "pf": 4627,
+  "la": 7193,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 135,
+  "xfa": false,
+  "labels": [
+   "name",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 2997
+ },
+ {
+  "file": "uae_branch\\letter_of_pledge.pdf",
+  "pages": 2,
+  "chars": 6067,
+  "ar": 478,
+  "pf": 1567,
+  "la": 2723,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "account no",
+   "address",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 723
+ },
+ {
+  "file": "uae_branch\\lg_issuance_application.pdf",
+  "pages": 3,
+  "chars": 13172,
+  "ar": 1100,
+  "pf": 3596,
+  "la": 5823,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 64,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 2407
+ },
+ {
+  "file": "uae_branch\\money_transfer_application_form.pdf",
+  "pages": 1,
+  "chars": 2313,
+  "ar": 177,
+  "pf": 598,
+  "la": 1112,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 37,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "IBAN",
+   "address",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 704
+ },
+ {
+  "file": "uae_branch\\online_banking_user_guide_individual.pdf",
+  "pages": 6,
+  "chars": 3041,
+  "ar": 0,
+  "pf": 0,
+  "la": 2376,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "IBAN",
+   "email"
+  ],
+  "size_kb": 1581
+ },
+ {
+  "file": "uae_branch\\overdraft_application_form.pdf",
+  "pages": 2,
+  "chars": 3737,
+  "ar": 366,
+  "pf": 968,
+  "la": 1668,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 700
+ },
+ {
+  "file": "uae_branch\\pearl_savings_addendum_form.pdf",
+  "pages": 1,
+  "chars": 2254,
+  "ar": 84,
+  "pf": 0,
+  "la": 1447,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "account no",
+   "signature"
+  ],
+  "size_kb": 915
+ },
+ {
+  "file": "uae_branch\\personal_loan_terms.pdf",
+  "pages": 3,
+  "chars": 13711,
+  "ar": 1177,
+  "pf": 3517,
+  "la": 6255,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": true,
+  "labels": [
+   "name",
+   "email",
+   "address",
+   "amount"
+  ],
+  "size_kb": 1108
+ },
+ {
+  "file": "uae_branch\\personal_loan_vs_term_deposit_form.pdf",
+  "pages": 2,
+  "chars": 6687,
+  "ar": 603,
+  "pf": 1723,
+  "la": 2926,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "email",
+   "address",
+   "dob",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 4067
+ },
+ {
+  "file": "uae_branch\\re_kyc_entities_non_us.pdf",
+  "pages": 24,
+  "chars": 82610,
+  "ar": 927,
+  "pf": 2808,
+  "la": 57998,
+  "gr": 1904,
+  "img_only_pages": 0,
+  "fields": 443,
+  "xfa": false,
+  "labels": [
+   "name",
+   "phone",
+   "email",
+   "address",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 8364
+ },
+ {
+  "file": "uae_branch\\re_kyc_individual_non_us.pdf",
+  "pages": 7,
+  "chars": 22705,
+  "ar": 1506,
+  "pf": 4883,
+  "la": 11192,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 197,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "phone",
+   "email",
+   "address",
+   "dob",
+   "amount",
+   "signature",
+   "employer/income"
+  ],
+  "size_kb": 1877
+ },
+ {
+  "file": "uae_branch\\specialized_chequebook_request.pdf",
+  "pages": 2,
+  "chars": 4766,
+  "ar": 369,
+  "pf": 1365,
+  "la": 2017,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 34,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "phone",
+   "address",
+   "signature"
+  ],
+  "size_kb": 1095
+ },
+ {
+  "file": "uae_branch\\swift_services_terms.pdf",
+  "pages": 6,
+  "chars": 33550,
+  "ar": 2642,
+  "pf": 8731,
+  "la": 15086,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": true,
+  "labels": [
+   "amount"
+  ],
+  "size_kb": 6417
+ },
+ {
+  "file": "uae_branch\\term_deposit_application_form.pdf",
+  "pages": 2,
+  "chars": 10019,
+  "ar": 857,
+  "pf": 2731,
+  "la": 4347,
+  "gr": 0,
+  "img_only_pages": 0,
+  "fields": 0,
+  "xfa": false,
+  "labels": [
+   "name",
+   "id/passport",
+   "account no",
+   "amount",
+   "signature"
+  ],
+  "size_kb": 1303
+ }
+]
